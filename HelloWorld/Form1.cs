@@ -19,7 +19,7 @@ namespace HelloWorld
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "こんにちは世界！！";
+            label1.Text = "なんでコミットできんねん";
         }
 
         private void label1_Click(object sender, EventArgs e)
